@@ -1,4 +1,8 @@
-path = "C:\Users\risal\PycharmProjects\codejam"
+# Problem A: Counting Sheep
+# CodeJam 2016 Qualification
+# By: Richard Salas Chavez
+
+path = "C:\Users\risal\PycharmProjects\codejam" # path of folder where this file is stored
 digits = [0,1,2,3,4,5,6,7,8,9] # numbers the Bleatrix Trotter the sheep keeps track of
 
 def main():
